@@ -1,4 +1,4 @@
 awscli 2.15.0
-kubectl 1.28.6
+kubectl 1.29.0
 helm 3.13.2
 terraform 1.0.11
